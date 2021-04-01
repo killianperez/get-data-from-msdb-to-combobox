@@ -21,9 +21,6 @@ Microsoft Visual Studio Enterprise 2019
 ## Goal
 This program allow to get data from a Microsoft Office Access 2007-2010 Database
 
-
-![test](https://user-images.githubusercontent.com/26604601/113056807-91b6a280-91ac-11eb-9e85-a11685e6defa.png)
-
 # License (All files in this project)  <img src="https://img.shields.io/github/license/Kenmeiyoki/periodic-send-image-album-telegram?style=plastic" alt="kenmeiyoki" />
 © KILLIAN PEREZ - 2019 <BR/>
 ---> [License MIT](https://lbesson.mit-license.org/)<BR/>
