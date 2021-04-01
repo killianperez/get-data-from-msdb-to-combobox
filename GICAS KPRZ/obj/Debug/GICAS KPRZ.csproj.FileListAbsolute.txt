@@ -1,0 +1,15 @@
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\bin\Debug\GICAS KPRZ.exe.config
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\bin\Debug\GICAS KPRZ.exe
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\bin\Debug\GICAS KPRZ.pdb
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.csprojAssemblyReference.cache
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS_KPRZ.Form1.resources
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS_KPRZ.Properties.Resources.resources
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.csproj.GenerateResource.cache
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.csproj.CoreCompileInputs.cache
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.exe
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.pdb
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\bin\Debug\GICAS KPRZ.exe.manifest
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\bin\Debug\GICAS KPRZ.application
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.TrustInfo.xml
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.exe.manifest
+C:\Users\Kenmeiyoki\source\repos\GICAS KPRZ\GICAS KPRZ\obj\Debug\GICAS KPRZ.application
